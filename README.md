@@ -29,11 +29,11 @@ A simple unit test script is available in `test/shuffle.test.js`.
 The helper method to check the uniqueness of the numbers in the result array, has been added to helper file and is being used in test file.
 
 Run:
-node test/shuffle.test.js
+- node test/shuffle.test.js
 
 
 Or with npm if installed:
-npm test
+- npm test
 
 
 
