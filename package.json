@@ -1,0 +1,8 @@
+{
+  "name": "shuffle-numbers",
+  "version": "1.0.0",
+  "main": "shuffle.js",
+  "scripts": {
+    "test": "node test/shuffle.test.js"
+  }
+}
